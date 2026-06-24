@@ -178,3 +178,9 @@ Join operations failed due to different table collations.
 ## Conclusion
 
 This project transformed raw crowdfunding data into meaningful business insights using SQL and Power BI. It provided practical experience in data loading, cleaning, analysis, and dashboard creation.
+
+## Power BI Dashboard File
+
+The Power BI dashboard file is available using the link below:
+
+[https://drive.google.com/file/d/1C_6lMbF-S8Fzu5n1cr-8IuOy6SFIvSTR/view?usp=drive_link]
